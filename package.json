@@ -1,5 +1,5 @@
 {
-  "name": "rezapartments-client",
+  "name": “ng4-universal-bootstrap”,
   "version": "0.0.0",
   "license": "MIT",
   "engines": {
@@ -27,6 +27,7 @@
     "@angular/platform-server": "^4.2.6",
     "@angular/router": "^4.2.6",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.5",
+    "bootstrap": "4.0.0-beta",
     "core-js": "^2.4.1",
     "rxjs": "^5.3.0",
     "zone.js": "^0.8.12"
